@@ -33,5 +33,4 @@ S_B += n * ((mean_vec - overall_mean) / LA.norm(mean_vec - overall_mean)).dot(((
 1.Trace(S_w)>10*Trace(S_b)이면 클래스 내 분산 거리가 너무 분산되었음을 나타내므로, 클래스 내 분산 행렬 S_w^(-1)의 특성 벡터를 구하여 최적의 LDA 투영 행렬로 사용합니다.
 
 2.Trace(S_w)<0.1*Trace(S_b) 클래스 내 분산 거리가 너무 분산되었음을 나타내므로, 클래스 내 분산 행렬 S_b의 특성 벡터를 구하여 최적의 LDA 투영 행렬로 사용합니다.
-
 3. 기타의 경우 원래의 특성벡터를 사용한다.
