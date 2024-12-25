@@ -9,7 +9,8 @@
 
 3.	판별 함수 생성
 
-![image](https://github.com/user-attachments/assets/ced5fdf4-e720-41cc-af51-6e1b30de9c7e
+![image](https://github.com/user-attachments/assets/563e48ab-ebff-4b98-9f24-4437a1c7b965)
+
 
 4.	클래스 할당
 
